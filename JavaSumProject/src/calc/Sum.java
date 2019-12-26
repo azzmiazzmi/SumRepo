@@ -8,7 +8,9 @@ public class Sum {
 	}
 
 	public int sub (int pFirstNumber, int pSecondNumber){
-		return pFirstNumber - pSecondNumber;
+		int result=0;
+		result= pFirstNumber - pSecondNumber;
+		return result;
 	}
 
 	
